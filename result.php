@@ -19,7 +19,7 @@
             <?php echo $paragrafo ?>
         </p>
         <p>
-            <?php echo 'La lunghezza': strlen($paragrafo) ?>
+            
         </p>
     </div>
     
